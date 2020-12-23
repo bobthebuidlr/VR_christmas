@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR", "Oculus.VR.csproj", "{f77941fa-582e-0ea1-f5ca-c4a4afa11bcf}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp", "Assembly-CSharp.csproj", "{5d67164a-b530-642f-6ac0-5273776705c0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Scripts.Editor", "Oculus.VR.Scripts.Editor.csproj", "{e2417f4f-0a1b-a3ec-36ac-7c27d0932c16}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Oculus.VR.Editor", "Oculus.VR.Editor.csproj", "{8fcebc2e-4b6b-46d5-2d3b-dfb8b2f073a0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assembly-CSharp-Editor", "Assembly-CSharp-Editor.csproj", "{0daaccc6-d51a-4fa8-870e-6004931e3af9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{f77941fa-582e-0ea1-f5ca-c4a4afa11bcf}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{f77941fa-582e-0ea1-f5ca-c4a4afa11bcf}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5d67164a-b530-642f-6ac0-5273776705c0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5d67164a-b530-642f-6ac0-5273776705c0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{e2417f4f-0a1b-a3ec-36ac-7c27d0932c16}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{e2417f4f-0a1b-a3ec-36ac-7c27d0932c16}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8fcebc2e-4b6b-46d5-2d3b-dfb8b2f073a0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8fcebc2e-4b6b-46d5-2d3b-dfb8b2f073a0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0daaccc6-d51a-4fa8-870e-6004931e3af9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0daaccc6-d51a-4fa8-870e-6004931e3af9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
